@@ -1,1 +1,1 @@
-Filter template, filter data in Laravel
+Simple example of filter data in Laravel
